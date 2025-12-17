@@ -1,0 +1,25 @@
+💻 Code Hub
+🧑‍💻 Developed by Vinuthna Inti
+📝 Description
+
+Code Hub is a front-end web project built using HTML and CSS.
+It serves as a learning platform where users can explore programming domains like Frontend, Backend, AI, DSA, and Cybersecurity.
+The page includes a sign-in form, coding categories, assignment sections, and progress indicators.
+
+🚀 Features
+
+Organized sections for different coding fields
+
+Circular progress bars showing learning progress
+
+Beginner, Intermediate, and Advanced assignment boxes
+
+Interactive sign-in form
+
+Gradient background with hover effects
+
+🛠️ Technologies
+
+HTML5
+
+CSS3 (Flexbox, Gradients, Hover effects)
